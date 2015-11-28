@@ -4,6 +4,13 @@ These are some useful code snippets I usually use in my projects. Feel free to g
 
 ## Contents
 
+### Datawrangling
+
+* readNumericData: Solving importing numeric strings
+
+
+### Ploting
+
 * HWplot: Creates a Holt-Winters Plotting Function via a Time Series object
 
 ![HWplot](https://github.com/joseramoncajide/R-Programming-Snippets/blob/master/_images/HWplot.jpg)
